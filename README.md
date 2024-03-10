@@ -6,5 +6,6 @@ Each member of the group should choose a different classification method from:
 1.	Naïve Bayes
 2.	Random Forests
 3.	Support Vector Machine
+
 Each member should train a classifier for the chosen dataset using their chosen technique and also neural networks. You should develop your neural network solutions independently. Each classifier (including neural networks) should be optimised and analysed for accuracy and training time.
 
